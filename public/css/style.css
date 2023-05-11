@@ -1,0 +1,41 @@
+.bg{
+    background-color: #FFF6BD;
+}
+.ca{
+    background-color: #FFF6BD;
+}
+.jus{
+    background-color: #FFF6BD;
+}
+.jss{
+    background-color: #FFF;
+}
+
+.container .collapse .navbar-nav a{
+    color: #F2CD5C;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.social a{
+    font-size: 27px;
+    margin: 0.5rem;
+    color: black;
+}
+.links a{
+    color: #000;
+    text-decoration: none;
+}
+.social a .bx{
+    padding: 5px;
+    color: #FFF;
+    background: #000;
+    border-radius: 50%;
+}
+.social a .bx:hover{
+    background: var(--main-color);
+}
